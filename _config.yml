@@ -24,10 +24,10 @@ projects:
   #   - stars
   limit: 9
   exclude:
-    archived: false
-    forks: true
+    #archived: false
+    #forks: true
     projects:
-    # - repo-name
+     - hacktisch.github.io
 
 social_media:
   # behance: your_username
@@ -50,14 +50,14 @@ social_media:
 topics:
   - name: React
     #web_url: https://github.com/topics/css
-    #image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+    image_url: https://sap.github.io/ui5-webcomponents/images/react.svg
 
   - name: Drupal
-
+    image_url: https://cdn.worldvectorlogo.com/logos/drupal.svg
 
   - name: Hashgraph
     #web_url: https://github.com/topics/sass
-    #image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+    image_url: https://media.licdn.com/dms/image/C560BAQGdLIW06kNKnA/company-logo_200_200/0?e=2159024400&v=beta&t=TLidtCq3eX-DKYTySSUew_4lkj8Ap9D1lN1Nro3PKOE
 
   - name: SPA
     #web_url: https://github.com/topics/sass
